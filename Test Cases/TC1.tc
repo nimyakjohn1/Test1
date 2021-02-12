@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Jenkins</description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f66f6b25-40f9-4606-b254-015baf5cf253</testCaseGuid>
+</TestCaseEntity>
